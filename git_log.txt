@@ -1,0 +1,84 @@
+commit affb67ef3d41df97b9505355b8860ec5e640a5fa
+Author: Maxine Tang <143565533+MaxineT05@users.noreply.github.com>
+Date:   Fri Feb 13 13:32:00 2026 -0800
+
+    Maxine did changes to groupmate section
+
+commit bce04b241fe6b0ba281d76ec82a5f3eaac1aa6c7
+Merge: 13d1313 e108858
+Author: dbg-00 <dgarma@calstatela.edu>
+Date:   Fri Feb 13 13:20:38 2026 -0800
+
+    Merge pull request #2 from dbg-00/feature-about-me
+    
+    Feature about me
+
+commit e108858dba16c55d4c62ffa0698a679eefc7cc55
+Merge: 381157f ad5e4ee
+Author: dbg-00 <dgarma@calstatela.edu>
+Date:   Fri Feb 13 13:18:50 2026 -0800
+
+    Merge branch 'feature-about-me' of https://github.com/dbg-00/CS3338-Homework-1 into feature-about-me
+
+commit 13d1313a0c8972f26415aa46038903a9f8229666
+Merge: f37cdce ad5e4ee
+Author: dbg-00 <dgarma@calstatela.edu>
+Date:   Fri Feb 13 13:17:07 2026 -0800
+
+    Merge pull request #1 from dbg-00/feature-about-me
+    
+    Setup index for groupmate
+
+commit ad5e4ee3053bc140f8496c8cce931841d0486d72
+Merge: 36c86ba f37cdce
+Author: dbg-00 <dgarma@calstatela.edu>
+Date:   Fri Feb 13 13:16:56 2026 -0800
+
+    Merge branch 'main' into feature-about-me
+
+commit 381157fd5e83e0a55500131eaf516417148cc135
+Author: dbg-00 <dgarma@calstatela.edu>
+Date:   Fri Feb 13 13:01:40 2026 -0800
+
+    Update index.html
+    
+    Added information to the index.html
+
+commit 36c86bac45225f2b53c6591729ec566171f0536d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:24:59 2025 -0800
+
+    Setup index for groupmate
+
+commit f37cdce66bf3ee5c7835db43eb69434768c73a72
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:05:30 2025 -0800
+
+    Replicate assignment-1 index
+
+commit 2221a861bb75db029ce6f7e543f814dcb97ff69c
+Merge: 7790057 bad1d21
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Feb 5 22:03:43 2025 -0800
+
+    Merge pull request #1 from JValenzuela1/feature-about-me
+    
+    Feature about me
+
+commit bad1d210982c13dbedbb9b72b3fd92018d5d575d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:42:13 2025 -0800
+
+     Please enter the commit message for your changes. Lines starting
+
+commit 740ccd1c7908abf4acc3e9edc878b083730fc3ea
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:36:03 2025 -0800
+
+    Adding an index template for students
+
+commit 779005737de5c4a1d440e0674921a65a60db04ac
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:15:47 2025 -0800
+
+    first commit
